@@ -135,137 +135,6 @@ a.white,
 	font: 700 1rem/1.375rem "Montserrat", sans-serif;
 }
 
-
-/* Resume */
-.timeline {
-	position: relative;
-}
-
-.timeline .timelin-title {
-	font-size: 20px;
-	text-transform: uppercase;
-	margin-left: 25px;
-}
-
-.timeline li {
-	padding: 0 20px 20px 30px;
-	list-style: none;
-	border-left: 2px solid #f1f1f1;
-}
-
-.timeline li .content-text {
-	background: #f2f2f2;
-	padding: 20px;
-}
-
-.timeline li .line-title {
-	font-size: 16px;
-	line-height: 6px;
-}
-
-.timeline li span {
-	font-size: 12px;
-	padding: 9px 0;
-	display: block;
-}
-
-.timeline li .line-text {
-	color: #888;
-	line-height: 18px;
-}
-
-.timeline li:first-child:before {
-	border: 0;
-	background: none;
-	position: relative;
-}
-
-.timeline li:last-child {
-	padding: 0 20px 0px 30px;
-}
-
-.timeline li:before {
-	content: "";
-	border: solid 2px;
-	width: 8px;
-	height: 8px;
-	border-radius: 50px;
-	-moz-border-radius: 50px;
-	-webkit-border-radius: 50px;
-	font-size: 8px;
-	margin-left: -35px;
-	font-weight: 400;
-	background: #fff;
-	display: block;
-	position: absolute;
-	margin-top: 18px;
-	border-color: #00b4d9 !important;
-}
-
-.timeline li:first-child i {
-	font-size: 20px;
-	float: left;
-	margin-left: -30px;
-	line-height: 50px;
-	border-radius: 30px;
-	margin: -12px -55px;
-	background: #00b4d9;
-	color: #fff;
-	width: 50px;
-	height: 50px;
-	text-align: center;
-}
-
-.navbar-brand {
-	position: relative;
-	padding: 0px;
-}
-
-.top-nav-collapse {
-	background: #fff;
-	z-index: 999999;
-	top: 0px !important;
-	min-height: 58px;
-	box-shadow: 0px 3px 6px 3px rgba(0, 0, 0, 0.06);
-	-webkit-animation-duration: 1s;
-	animation-duration: 1s;
-	-webkit-animation-fill-mode: both;
-	animation-fill-mode: both;
-	-webkit-animation-name: fadeInDown;
-	animation-name: fadeInDown;
-	background: #fff !important;
-}
-
-.top-nav-collapse .navbar-brand {
-	top: 0px;
-}
-
-.top-nav-collapse .navbar-brand img {
-	width: 65%;
-}
-
-.top-nav-collapse .navbar-nav .nav-link {
-	color: #333 !important;
-	margin-top: 0px !important;
-	margin-bottom: 0px !important;
-}
-
-.top-nav-collapse .navbar-nav .nav-link:hover {
-	cursor: pointer;
-	color: #00b4d9 !important;
-}
-
-.top-nav-collapse .navbar-nav li.active a.nav-link {
-	color: #00b4d9 !important;
-}
-
-.indigo {
-	background: #fff;
-}
-
-.menu-bg {
-	background: transparent;
-}
 strong {
 	color: #484a46;
 }
@@ -903,7 +772,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/header-background.JPG') center center no-repeat;
 	background-size: cover;
 }
 
