@@ -29,7 +29,7 @@
 <img src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" alt="PHP" width="50" height="40"/>
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="MySQL" width="50" height="40"/>
 <img src="https://png2.cleanpng.com/sh/71aeb4ebbc0f8d3c6d5677e671feb67a/L0KzQYm3U8E2N6lAj5H0aYP2gLBuTgBwe6Vsitd8cXywfLFuj71kd551jeZucj32f7f7lBFzbV5peeZqYnH2dX72kPVvNaR0jeRsZT35dbT7jCIucZ5mf9d8LUXkcbK5VvUybZcATqM6LkO4QYW3WcA0OWY3SaM5MEW0Q4qBUcQveJ9s/kisspng-postgresql-logo-computer-software-database-open-source-vector-images-5aaa26e1ef9611.3514090315211005139814.png" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://www.pngrepo.com/png/303232/180/mongodb-logo.png" alt="MongoDD" width="50" height="50"/>
+<img src="https://www.pngrepo.com/png/303232/180/mongodb-logo.png" alt="MongoDB" width="50" height="50"/>
 <img src="https://www.pngrepo.com/png/303460/180/redis-logo.png" alt="Redis" width="40" height="40"/>
 <img src="https://www.pngrepo.com/png/303574/180/elasticsearch-logo.png" alt="ElasticSearch" width="40" height="40"/>
 <img src="https://www.pngrepo.com/png/303672/180/laravel-1-logo.png" alt="Laravel" width="40" height="40"/>
